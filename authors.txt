@@ -1,4 +1,8 @@
 Fabien Rozar
+<<<<<<< HEAD
 Yanis VINGADASSAMY
 Adrien Lemettre
 Matthieu Hoarau
+=======
+Aïfèze Simba
+>>>>>>> 80598ff (Add name Aifeze)
